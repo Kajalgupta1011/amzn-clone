@@ -8,9 +8,6 @@ You can use the following information to make a payment:
 - Valid Date: 0424
 - ZIP Code: 42424
 
-
-
-
 ## Teck-Use
 
 - ReactJS
